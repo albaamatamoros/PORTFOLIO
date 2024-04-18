@@ -3,9 +3,9 @@
 ##  :raising_hand: SOBRE MI...
 
 
-¡Hola! Soy Alba, estudiante de "DAW" (Desarrollo de Aplicaciones Web). 
-Tengo una titulación en grado medio "SMX" (Sistemas micro informaticos y redes). 
-Y una titulacion en grado superior "Animación 3D, videojuegos y entornos interactivos".
+¡Hola! Soy Alba, estudiante de "DAW" (Desarrollo de Aplicaciones Web) tengo 22 años y me interesa mucho el mundo de la programación.
+
+También he estudiado un grado medio "SMX" (Sistemas micro informáticos y redes) y un grado superior "Animación 3D, videojuegos y entornos interactivos".
 
 :cherry_blossom: - Lenguajes y herramientas que he utilizado:
 
@@ -22,6 +22,7 @@ Y una titulacion en grado superior "Animación 3D, videojuegos y entornos intera
 
 ## CURRICULUM
 
+Te invito a que le eches un vistazo :wink: :
 [Alba Matamoros Morales cv ](https://github.com/albaamatamoros/PORTFOLIO/blob/main/DOCUMENTOS/Alba%20Matamoros%20cv%202024.pdf)
 
 ##  PROYECTOS
