@@ -1,6 +1,6 @@
 # PORTFOLIO
 
-¡Hola! Soy Alba estudiante de "DAW" (Desarrollo de Aplicaciones Web). 
+¡Hola! Soy Alba, estudiante de "DAW" (Desarrollo de Aplicaciones Web). 
 Tengo una titulación en grado medio "SMX" (Sistemas micro informaticos y redes). 
 Y una titulacion en grado superior "Animación 3D, videojuegos y entornos interactivos".
 
