@@ -22,12 +22,12 @@ También he estudiado un grado medio "SMX" (Sistemas micro informáticos y redes
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
 
-## CURRICULUM
+## :thought_balloon: CURRICULUM
 
 Te invito a que le eches un vistazo :wink: :
 [Alba Matamoros Morales cv ](https://github.com/albaamatamoros/PORTFOLIO/blob/main/DOCUMENTOS/Alba%20Matamoros%20cv%202024.pdf)
 
-##  PROYECTOS
+##  :collision: PROYECTOS
 
 [The Las Hope, Videojuego](https://github.com/albaamatamoros/TheLastHope-Videojuego)
 
