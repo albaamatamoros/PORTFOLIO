@@ -8,10 +8,8 @@ Y una titulacion en grado superior "Animación 3D, videojuegos y entornos intera
 
 Lenguajes y herramientas que he utilizado:
 
-<i class="ci ci-spotify ci-2x"></i>
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%1B74BD.svg?style=plastic&logo=css3&logoColor=white)
 
 
 C# | Java | Python | Unity | Css | Html | Mysql | Illustrator | After Effects | Photoshop | Blender | Substance 3D | Unity | Unreal | Linux | Git
