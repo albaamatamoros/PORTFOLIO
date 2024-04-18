@@ -7,6 +7,8 @@
 
 También he estudiado un grado medio "SMX" (Sistemas micro informáticos y redes) y un grado superior "Animación 3D, videojuegos y entornos interactivos".
 
+## :sparkles: SKILLS
+
 :cherry_blossom: - Lenguajes y herramientas que he utilizado:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
