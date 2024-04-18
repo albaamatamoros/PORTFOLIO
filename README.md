@@ -7,7 +7,7 @@
 Tengo una titulación en grado medio "SMX" (Sistemas micro informaticos y redes). 
 Y una titulacion en grado superior "Animación 3D, videojuegos y entornos interactivos".
 
-Lenguajes y herramientas que he utilizado:
+:cherry_blossom: - Lenguajes y herramientas que he utilizado:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
