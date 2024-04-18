@@ -7,6 +7,7 @@ Y una titulacion en grado superior "Animación 3D, videojuegos y entornos intera
 Lenguajes y herramientas que he utilizado:
 
 C# | Java | Python | Unity | Css | Html | Mysql | Illustrator | After Effects | Photoshop | Blender | Substance 3D | Unity | Unreal | Linux | Git
+
 ## CURRICULUM
 
 [Alba Matamoros cv](https://github.com/albaamatamoros/PORTFOLIO/blob/main/DOCUMENTOS/Alba%20Matamoros%20cv%202024.pdf)
