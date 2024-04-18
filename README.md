@@ -35,5 +35,5 @@ Te invito a que le eches un vistazo :wink: :
 
 ## :e-mail: CONTACTO
 
-:pushpin: Para cualquier tipo de duda o interés podéis utilizar este corre: albamamo07@gmail.com
+:pushpin: Para cualquier tipo de duda o interés podéis utilizar este correo: albamamo07@gmail.com
 
