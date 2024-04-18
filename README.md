@@ -10,6 +10,8 @@ C# | Java | Python | Unity | Css | Html | Mysql | Illustrator | After Effects | 
 
 ## CURRICULUM
 
-[Alba Matamoros cv](https://github.com/albaamatamoros/PORTFOLIO/blob/main/DOCUMENTOS/Alba%20Matamoros%20cv%202024.pdf)
+[Alba Matamoros cv Visual](https://github.com/albaamatamoros/PORTFOLIO/blob/main/DOCUMENTOS/Alba%20Matamoros%20cv%202024.pdf)
+
+[Alba Matamoros cv Readme](https://github.com/albaamatamoros/PORTFOLIO/blob/main/DOCUMENTOS/Alba%20Matamoros%20cv%202024.pdf)
 
 ##  PROYECTOS
